@@ -4,9 +4,9 @@
 
 # Simulated Annealing for Local Search
 
-## Overview
+# Visão Geral
 
-This repository documents the implementation of the Simulated Annealing algorithm for local search in the field of Artificial Intelligence. Simulated Annealing is an optimization algorithm known for its efficiency in exploring complex solution spaces. The README provides insights into the basic concepts, algorithm development, practical examples, and real-world applications.
+Este repositório documenta a implementação do algoritmo Simulated Annealing para busca local no campo da Inteligência Artificial. O Simulated Annealing é um algoritmo de otimização conhecido por sua eficiência na exploração de espaços de solução complexos. O README fornece insights sobre os conceitos básicos, desenvolvimento do algoritmo, exemplos práticos e aplicações no mundo real.
 
 ## Contributors
 
