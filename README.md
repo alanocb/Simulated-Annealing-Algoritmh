@@ -99,9 +99,7 @@ Uma imagem radiográfica que destaca o padrão coberto pela ameba, onde o organi
 ## Pombos
 ![image](https://github.com/alanocb/Simulated-Annealing-Algoritmh/assets/99679262/cdf713e1-4d3a-4f82-a40e-4e22a4be6794)
 
-Diagrama resumido dos movimentos de pombos em direção à comida de acordo com as várias disposições. Se preferir, pode imaginar que é um esquema de jogo compreensível apenas para especialistas em zoologia, evidentemente mais elaborado do que o clássico 3-4-3.
-
-Outra imagem microscópica do organismo alcançando vários pontos quimiotáticos.
+Diagrama resumido dos movimentos de pombos em direção à comida de acordo com as várias disposições.
 
 ### Limitações na Busca da Solução Ótima
 
