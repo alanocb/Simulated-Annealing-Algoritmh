@@ -86,17 +86,17 @@ Na natureza, observamos que muitos animais possuem uma notável habilidade em ma
 Apesar das habilidades notáveis dos animais na busca por soluções eficientes, muitas vezes, essas soluções não são as ótimas. Mesmo com estratégias adaptativas e eficazes, a natureza enfrenta limitações na busca pela solução de menor custo em espaços de solução complexos.
 
 
-## Formigas
+### Formigas
 ![image](https://github.com/alanocb/Simulated-Annealing-Algoritmh/assets/99679262/2a968d3e-f9c9-43f4-afb0-18d4a8e6d555)
 
-## Amoeba
+### Amoeba
 ![image](https://github.com/alanocb/Simulated-Annealing-Algoritmh/assets/99679262/c049b626-ac85-4124-a7bf-def147268ef3)
 
 Uma imagem radiográfica que destaca o padrão coberto pela ameba, onde o organismo é representado em cinza, enquanto os pontos quimiotáticos são ordenados alfabeticamente e circulados em verde.
 
 ![image](https://github.com/alanocb/Simulated-Annealing-Algoritmh/assets/99679262/6c7e3cf2-2666-49a8-beab-8449e4cc2de5)
 
-## Pombos
+### Pombos
 ![image](https://github.com/alanocb/Simulated-Annealing-Algoritmh/assets/99679262/cdf713e1-4d3a-4f82-a40e-4e22a4be6794)
 
 Diagrama resumido dos movimentos de pombos em direção à comida de acordo com as várias disposições.
